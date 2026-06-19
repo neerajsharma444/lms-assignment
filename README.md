@@ -27,17 +27,6 @@ To run this project locally, follow these steps:
 
 ---
 
-## 🌍 Environment Variables Needed
-
-Create a `.env` file in the root directory (if applicable) and add the necessary environment variables. 
-
-*Currently, no explicit environment variables are required out-of-the-box to run the UI, but if you have an API base URL, place it here:*
-```env
-EXPO_PUBLIC_API_URL=https://your-api-endpoint.com
-```
-
----
-
 ## 🏗 Key Architectural Decisions
 
 This application was built with a modern, performant React Native stack:
