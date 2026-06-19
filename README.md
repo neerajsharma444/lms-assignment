@@ -56,12 +56,12 @@ The app is designed to work seamlessly even when the user loses internet connect
 ### 🌙 Dark Theme
 | Discover | Course Details | Interactive Content | Profile / History |
 |:---:|:---:|:---:|:---:|
-| ![Dark Discover](<DRAG_DARK_IMAGE_1_HERE>) | ![Dark Course Details](<DRAG_DARK_IMAGE_2_HERE>) | ![Dark Interactive](<DRAG_DARK_IMAGE_3_HERE>) | ![Dark Profile](<DRAG_DARK_IMAGE_4_HERE>) |
+| ![Dark Discover](<img width="1080" height="2400" alt="Screenshot_1781872598" src="https://github.com/user-attachments/assets/ce7bd32e-024b-4cc8-8bee-e5211c798ecc" />) | ![Dark Course Details](<img width="1080" height="2400" alt="Screenshot_1781872611" src="https://github.com/user-attachments/assets/10223823-a794-4970-9592-0df9567d017b" />) | ![Dark Interactive](<img width="1080" height="2400" alt="Screenshot_1781872619" src="https://github.com/user-attachments/assets/abdf8c19-3576-4791-b80c-0ea5c082393b" />) | ![Dark Profile](<img width="1080" height="2400" alt="Screenshot_1781872641" src="https://github.com/user-attachments/assets/2ec4399b-3177-4019-9c82-490049f27608" />) |
 
 ### ☀️ Light Theme
 | Discover | Course Details | Interactive Content | Profile / History |
 |:---:|:---:|:---:|:---:|
-| ![Light Discover](<DRAG_LIGHT_IMAGE_1_HERE>) | ![Light Course Details](<DRAG_LIGHT_IMAGE_2_HERE>) | ![Light Interactive](<DRAG_LIGHT_IMAGE_3_HERE>) | ![Light Profile](<DRAG_LIGHT_IMAGE_4_HERE>) |
+| ![Light Discover](<img width="1080" height="2400" alt="Screenshot_1781872769" src="https://github.com/user-attachments/assets/3de87ef2-6e46-46c5-a0f8-c10242a83d0b" />) | ![Light Course Details](<img width="1080" height="2400" alt="Screenshot_1781872788" src="https://github.com/user-attachments/assets/1200882b-881f-48f0-8133-93f36cf236ca" />) | ![Light Interactive](<img width="1080" height="2400" alt="Screenshot_1781872794" src="https://github.com/user-attachments/assets/ef36e947-f3a8-45b8-90dc-679d7302fd2d" />) | ![Light Profile](<img width="1080" height="2400" alt="Screenshot_1781872803" src="https://github.com/user-attachments/assets/b11bafdf-60b5-411b-a8fe-9cf2a8e7dc33" />) |
 
 ---
 
