@@ -45,23 +45,24 @@ This application was built with a modern, performant React Native stack:
 The app is designed to work seamlessly even when the user loses internet connection. 
 * **Data Caching:** We use `react-native-mmkv` and `React Query` to cache the latest fetched data (like schedules, user profile, etc.). 
 * When offline, the app reads directly from the MMKV cache to display the last known state immediately without infinite loading spinners.
-* Any offline actions (like marking attendance or sending a message) are queued and synced once the network is restored.
 
 ---
 
 ## 📱 Screenshots of Main Screens
 
-*(Drag and drop your images directly into the GitHub README editor to replace the placeholders below with actual image URLs).*
-
 ### 🌙 Dark Theme
+
 | Discover | Course Details | Interactive Content | Profile / History |
-|:---:|:---:|:---:|:---:|
-| ![Dark Discover](<img width="1080" height="2400" alt="Screenshot_1781872598" src="https://github.com/user-attachments/assets/ce7bd32e-024b-4cc8-8bee-e5211c798ecc" />) | ![Dark Course Details](<img width="1080" height="2400" alt="Screenshot_1781872611" src="https://github.com/user-attachments/assets/10223823-a794-4970-9592-0df9567d017b" />) | ![Dark Interactive](<img width="1080" height="2400" alt="Screenshot_1781872619" src="https://github.com/user-attachments/assets/abdf8c19-3576-4791-b80c-0ea5c082393b" />) | ![Dark Profile](<img width="1080" height="2400" alt="Screenshot_1781872641" src="https://github.com/user-attachments/assets/2ec4399b-3177-4019-9c82-490049f27608" />) |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/ce7bd32e-024b-4cc8-8bee-e5211c798ecc" width="250"/> | <img src="https://github.com/user-attachments/assets/10223823-a794-4970-9592-0df9567d017b" width="250"/> | <img src="https://github.com/user-attachments/assets/abdf8c19-3576-4791-b80c-0ea5c082393b" width="250"/> | <img src="https://github.com/user-attachments/assets/2ec4399b-3177-4019-9c82-490049f27608" width="250"/> |
+
+---
 
 ### ☀️ Light Theme
+
 | Discover | Course Details | Interactive Content | Profile / History |
-|:---:|:---:|:---:|:---:|
-| ![Light Discover](<img width="1080" height="2400" alt="Screenshot_1781872769" src="https://github.com/user-attachments/assets/3de87ef2-6e46-46c5-a0f8-c10242a83d0b" />) | ![Light Course Details](<img width="1080" height="2400" alt="Screenshot_1781872788" src="https://github.com/user-attachments/assets/1200882b-881f-48f0-8133-93f36cf236ca" />) | ![Light Interactive](<img width="1080" height="2400" alt="Screenshot_1781872794" src="https://github.com/user-attachments/assets/ef36e947-f3a8-45b8-90dc-679d7302fd2d" />) | ![Light Profile](<img width="1080" height="2400" alt="Screenshot_1781872803" src="https://github.com/user-attachments/assets/b11bafdf-60b5-411b-a8fe-9cf2a8e7dc33" />) |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/3de87ef2-6e46-46c5-a0f8-c10242a83d0b" width="250"/> | <img src="https://github.com/user-attachments/assets/1200882b-881f-48f0-8133-93f36cf236ca" width="250"/> | <img src="https://github.com/user-attachments/assets/ef36e947-f3a8-45b8-90dc-679d7302fd2d" width="250"/> | <img src="https://github.com/user-attachments/assets/b11bafdf-60b5-411b-a8fe-9cf2a8e7dc33" width="250"/> |
 
 ---
 
